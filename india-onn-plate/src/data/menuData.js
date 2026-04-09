@@ -1,4 +1,3 @@
-// updated menu final
 export const menuData = {
   Appetizers: [
     { name: "Classic Crispy Fries", price: 79 },
@@ -112,4 +111,4 @@ export const menuData = {
     { name: "Kiwi Punch Splash", price: 69 },
     { name: "Orange Sunny Splash", price: 69 },
   ],
-};
+  };
