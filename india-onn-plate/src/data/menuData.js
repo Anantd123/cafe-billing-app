@@ -101,7 +101,7 @@ export const menuData = {
     { name: "Blueberry Cream Shake", price: 99 },
     { name: "Bubblegum Fun Shake", price: 99 },
   ],
-  "Refreshing Coolers": [
+    "Refreshing Coolers": [
     { name: "Minty Virgin Mojito", price: 69 },
     { name: "Blue Ocean Breeze", price: 69 },
     { name: "Zesty Lemon Lime Sparkle", price: 69 },
